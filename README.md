@@ -46,8 +46,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://kaushik1dev.github.io/Portfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kaushikpandey.com?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/kaushikpandey35"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kaushik%20Pandey?style=flat-square&logo=linkedin"></a>
-
-<a href="mailto:kaushikpandey35@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kaushikpandey35@gmail.com?style=flat-square&logo=gmail"></a>
+<a href="https://kaushik1dev.github.io/Portfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kaushikpandey.com-KP?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.linkedin.com/in/kaushikpandey35"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kaushik%20Pandey%20?style=flat-square&logo=linkedin"></a>
+<a href="mailto:kaushikpandey35@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kaushikpandey35@gmail.com-KP?style=flat-square&logo=gmail"></a>
 </p>
