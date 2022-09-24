@@ -19,7 +19,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Knockout.js](https://img.shields.io/v1?message=Knockout.js&color=<COLOR>)
+  ![Knockout.js](https://img.shields.io/badge/Knockout.js)
   ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 - 🛢 &nbsp;
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
@@ -29,8 +29,7 @@
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
  
 - 🔧 &nbsp;
-  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
+  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 
 <br/>
@@ -45,7 +44,6 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://kaushik1dev.github.io/Portfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-www.kaushikpandey.com-KP?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/kaushikpandey35"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kaushik%20Pandey%20?style=flat-square&logo=linkedin"></a>
 <a href="mailto:kaushikpandey35@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-kaushikpandey35@gmail.com-KP?style=flat-square&logo=gmail"></a>
 </p>
