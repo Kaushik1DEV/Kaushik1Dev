@@ -2,7 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; I'm Kaushik Pandey, a 24-year old technical enthusiast who does web development.
+- 🤔 &nbsp; I'm Kaushik Pandey, a 27-year old technical enthusiast who does web development.
 - 🎓 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 💼 &nbsp; Passionate to contribute open-source projects and make cool products.
 
