@@ -1,35 +1,52 @@
-<h2> Hey there! I'm Kaushik.</h2>
+<h1 align="center">Hey there, I'm Kaushik 👋</h1>
+<h3 align="center">Web & Backend Engineer | Azure + GenAI Enthusiast</h3>
 
-<h3> 👨🏻‍💻 &nbsp;About Me </h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Building+practical+software+solutions;Exploring+Azure+Cloud+%26+GenAI;Open-source+contributor+mindset" alt="Typing SVG" />
+</p>
 
-- 🤔 &nbsp; I'm Kaushik Pandey, a 27-year old technical enthusiast who does web development.
-- 🎓 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 💼 &nbsp; Passionate to contribute open-source projects and make cool products.
+---
 
+### 👨🏻‍💻 About Me
+- 27-year-old tech enthusiast focused on web and backend development.
+- Passionate about solving real-world problems with scalable software.
+- Currently building with Azure services and GenAI-powered workflows.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+### 🛠 Tech Stack
 
-- 💻 &nbsp;
-  ![.Net Core](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
-  ![Core Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
- 
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Knockout.js](https://img.shields.io/badge/Knockout.js-Sucess)
-  ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-- 🛢 &nbsp;
-  ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-  ![MariaDb](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
- 
-- 🔧 &nbsp;
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+#### 💻 Backend
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=openjdk&logoColor=F89820)
+
+#### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
+![Knockout.js](https://img.shields.io/badge/Knockout.js-333333?style=for-the-badge&logo=knockoutdotjs&logoColor=E9842D)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+#### 🛢 Databases
+![MySQL](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+#### ⚙️ Dev Tools
+![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+
+### ☁️ Azure & GenAI
+![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+- Azure Functions
+- Azure Blob Storage
+- Azure Key Vault
+- Azure Application Insights
+- RAG (Retrieval-Augmented Generation)
+- Embeddings
+- Vector Search / Vector Databases
+- LLM-based application development
 
 
 <br/>
