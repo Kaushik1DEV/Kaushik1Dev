@@ -8,7 +8,7 @@
 ---
 
 ### 👨🏻‍💻 About Me
-- 28-year-old tech enthusiast focused on web and backend development.
+- 28-year-old tech enthusiast focused on Building AI enabled solutions.
 - Passionate about solving real-world problems with scalable software.
 - Currently building with Azure services and GenAI-powered workflows.
 
