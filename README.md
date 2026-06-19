@@ -24,17 +24,19 @@
 ![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-333333?style=for-the-badge&logo=bootstrap&logoColor=563D7C)
-![Knockout.js](https://img.shields.io/badge/Knockout.js-333333?style=for-the-badge&logo=knockoutdotjs&logoColor=E9842D)
+![Reactjs](https://img.shields.io/badge/Reactjs-333333?style=for-the-badge&logo=knockoutdotjs&logoColor=E9842D)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 #### 🛢 Databases
 ![MySQL](https://img.shields.io/badge/MySQL-333333?style=for-the-badge&logo=mysql)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Faiss](https://img.shields.io/badge/Faiss-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 #### ⚙️ Dev Tools
 ![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio-Code-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
 ### ☁️ Azure & GenAI
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
