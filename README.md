@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Kaushik 👋</h1>
-<h3 align="center">Web & Backend Engineer | Azure | RAG| LLM</h3>
+<h3 align="center">AI Native Engineer | Azure | RAG| LLM</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=Building+practical+software+solutions;Exploring+Azure+Cloud+%26+GenAI;Open-source+contributor+mindset" alt="Typing SVG" />
